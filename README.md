@@ -7,6 +7,6 @@ My name is Duy Le. I am currently pursuing a bachelor's degree in International 
 
 
 
-![Duy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Duy's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=btrduy&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 
